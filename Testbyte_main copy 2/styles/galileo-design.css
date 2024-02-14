@@ -15,7 +15,7 @@ input {
 	border: none;
 }
 body {
-  width: 138.6rem;
+  width: 100%;
 }.galileo-design-MoB {
   width: 100%;
   height: 3550px;
@@ -24,7 +24,7 @@ body {
 
 
 body, .galileo-design-MoB, .depth-0-frame-0-Pzm, .depth-1-frame-0-w97, .depth-2-frame-0-oh7, .depth-3-frame-0-1vu, .depth-4-frame-0-GW9, .depth-5-frame-0-Vgy, .depth-6-frame-0-2S1 {
-  margin: 0;
+  margin: 0 auto;
   padding: 0;
 }
 
